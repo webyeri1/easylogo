@@ -1,0 +1,20 @@
+
+export default {
+  "headerTitle": "EasyLogo",
+  "heroTitle": "Mükemmel Logonuzu Anında Oluşturun",
+  "heroSubtitle": "Vizyonunuzu tanımlayın ve yapay zekamızın onu hayata geçirmesine izin verin. Saniyeler içinde dört benzersiz logo konsepti edinin.",
+  "promptPlaceholder": "ör., Bir uzay girişimi için minimalist bir roket",
+  "generatingButton": "Oluşturuluyor...",
+  "generateButton": "Oluştur",
+  "tryExample": "Bir örnek deneyin:",
+  "example1": "Bir finans şirketi için görkemli bir aslan",
+  "example2": "Bir teknoloji girişimi için minimalist bir tilki",
+  "example3": "Kalp şeklinde bir kahve çekirdeği",
+  "example4": "Bir macera markası için soyut bir dağ zirvesi",
+  "loadingMessage": "Yaratıcı logolar hazırlanıyor...",
+  "errorMessage": "Logolar oluşturulamadı. Lütfen tekrar deneyin.",
+  "resultsTitle": "Oluşturulan Logolarınız",
+  "downloadButton": "İndir",
+  "footerText": "Gemini tarafından desteklenmektedir. Dünya Standartlarında Kıdemli bir Frontend React Mühendisi tarafından tasarlanmıştır.",
+  "altLogoText": "Oluşturulan logo {number}"
+};

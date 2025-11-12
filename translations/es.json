@@ -1,0 +1,19 @@
+{
+  "headerTitle": "Generador de Logos con IA",
+  "heroTitle": "Crea tu Logo Perfecto al Instante",
+  "heroSubtitle": "Describe tu visión y deja que nuestra IA le dé vida. Obtén cuatro conceptos de logo únicos en segundos.",
+  "promptPlaceholder": "ej. Un cohete minimalista para una startup espacial",
+  "generatingButton": "Generando...",
+  "generateButton": "Generar",
+  "tryExample": "Prueba un ejemplo:",
+  "example1": "Un león majestuoso para una empresa financiera",
+  "example2": "Un zorro minimalista para una startup tecnológica",
+  "example3": "Un grano de café en forma de corazón",
+  "example4": "Un pico de montaña abstracto para una marca de aventuras",
+  "loadingMessage": "Creando algunos logos creativos...",
+  "errorMessage": "No se pudieron generar los logos. Por favor, inténtalo de nuevo.",
+  "resultsTitle": "Tus Logos Generados",
+  "downloadButton": "Descargar",
+  "footerText": "Desarrollado por Gemini. Diseñado por un Ingeniero Frontend React Senior de clase mundial.",
+  "altLogoText": "Logo generado {number}"
+}

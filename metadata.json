@@ -1,0 +1,5 @@
+{
+  "name": "EasyLogo",
+  "description": "An application that uses AI to automatically generate unique logos based on user descriptions. Enter a company name or a concept, and the AI will create a variety of logo options.",
+  "requestFramePermissions": []
+}

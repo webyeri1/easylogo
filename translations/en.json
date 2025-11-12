@@ -1,0 +1,19 @@
+{
+  "headerTitle": "AI Logo Generator",
+  "heroTitle": "Create Your Perfect Logo Instantly",
+  "heroSubtitle": "Describe your vision and let our AI bring it to life. Get four unique logo concepts in seconds.",
+  "promptPlaceholder": "e.g., A minimalist rocket for a space startup",
+  "generatingButton": "Generating...",
+  "generateButton": "Generate",
+  "tryExample": "Try an example:",
+  "example1": "A majestic lion for a finance company",
+  "example2": "A minimalist fox for a tech startup",
+  "example3": "A coffee bean shaped like a heart",
+  "example4": "An abstract mountain peak for an adventure brand",
+  "loadingMessage": "Conjuring up some creative logos...",
+  "errorMessage": "Failed to generate logos. Please try again.",
+  "resultsTitle": "Your Generated Logos",
+  "downloadButton": "Download",
+  "footerText": "Powered by Gemini. Designed by a World-Class Senior Frontend React Engineer.",
+  "altLogoText": "Generated logo {number}"
+}
